@@ -97,3 +97,10 @@ The skill produces a structured report containing:
 - Risks, contradictions, and invalidation triggers
 
 > This skill uses only public information or user-provided data for probabilistic research. It is not investment advice and should not be used to allege actual insider trading.
+
+
+## 公开软信息补充 / Public soft signals
+
+保留原四层、Gamma/Delta、风险与情景研究，补充人物公开表达/发帖节奏、组织与对手方动作、区域聚合活动；按自身历史基线比较，并核普通解释。默认只呈现简短结论、最多三条有用变化及关键缺口。
+
+Read the additive [Skill extension](SKILL.md#public-soft-signal-extension) and [public soft-signal guide](references/public-soft-signals.md). The original modules remain intact; public clues are research leads, not proof of inside information or calibrated probabilities.

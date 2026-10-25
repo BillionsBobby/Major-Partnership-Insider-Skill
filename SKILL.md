@@ -233,3 +233,16 @@ Separate:
 - Speculation.
 
 End with: "This is probabilistic research based on public/user-provided information and is not investment advice."
+
+
+## Public Soft-Signal Extension
+
+Keep the original four layers, gamma/delta, risk checks and scenarios. Alongside them, check a few accessible public clues that may sharpen the event hypothesis; no channel is mandatory. Read [Public soft signals](references/public-soft-signals.md) for this extension.
+
+- **People:** compare public posting/reply frequency, positive/negative word choices, specificity, repeated dates/topics and observable interview pauses/corrections with the same person's normal pattern. Record words/actions; faces, gestures or microexpressions do not establish hidden emotion, honesty or inside knowledge.
+- **Organizations:** inspect public website/docs/domain/trademark changes, hiring details, costly preparation, event-format changes and matching actions by customers, suppliers or counterparties.
+- **Environment:** use lawful public or appropriately licensed area-level business/activity data, including hospitality or spending where available; do not identify or track individuals.
+- For a useful change, retain a compact baseline, first-public time, source/coverage and strongest ordinary explanation. Missing comparison data means an observation, not a demonstrated change. Prefer independently sourced, costly or counterparty-matched actions; one announcement and its reposts remain one signal family.
+- Compare the clues with the original four layers and seek disconfirming evidence. Missing soft data does not stop the original research, impose a paid-data requirement or add a candidate filter. Public event timing does not imply advance knowledge of its result.
+- Default reader output: one event/window verdict, up to three useful sourced changes, and the strongest ordinary explanation plus key gap/next check. Summarize the original modules; keep detailed history in evidence or provide it on request.
+- Separate observed change, event inference and any demonstrated trader-information link. Soft clues alone establish neither insider trading nor a numeric probability. Keep the original scoring material as heuristics, not calibrated estimates; follow project probability restrictions (UOH uses qualitative judgments).
